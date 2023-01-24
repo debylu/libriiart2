@@ -1,0 +1,26 @@
+.servicos img{
+    height:200px;
+    width:200px;
+    width:100%;
+}
+
+.carrossel img{
+    height:400px;
+}
+.sociais{
+    padding:20px;
+}
+
+.footer{
+    background-color: rgb(158, 116, 214);
+    padding:20px;
+    text-decoration-color: black;
+}
+
+.menu{
+    background-color: rgba(204, 204, 204, 0.733);
+    height: 100px;
+}
+.welcome {
+    background-color: rgb(13, 190, 190);
+}
