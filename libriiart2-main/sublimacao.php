@@ -28,7 +28,7 @@ Comprar
   <img class="card-img-top" src="imagens/retrovisor.jpg" alt="Imagem de capa do card">
   <div class="card-body">
     <h5 class="card-title">Agenda</h5>
-    <p class="card-text">Agendas escolares ou administrativas personalizadas</p>
+    <p class="card-text">Agendas escolares, pessoal ou agendamento de clientes</p>
     <p>R$80,00</p>
         <!-- Botão para acionar modal -->
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#retrovisor">
@@ -43,7 +43,7 @@ Comprar
   <img class="card-img-top" src="imagens/volante.jpg" alt="Imagem de capa do card">
   <div class="card-body">
     <h5 class="card-title">Caderneta</h5>
-    <p class="card-text">Caderneta de vacinação</p>
+    <p class="card-text">Caderneta de Saúde</p>
     <p>R$55,00</p>
           <!-- Botão para acionar modal -->
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#volante">
@@ -57,7 +57,7 @@ Comprar
   <img class="card-img-top" src="imagens/pneu.jpg" alt="Imagem de capa do card">
   <div class="card-body">
     <h5 class="card-title">Topo de bolo</h5>
-    <p class="card-text">Topo de bolo personalizado em 3D</p>
+    <p class="card-text">Topo de bolo personalizado simples</p>
     <p>R$15,00</p>
        <!-- Botão para acionar modal -->
        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pneu">
@@ -88,7 +88,7 @@ Comprar
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary">Adicionar ao carinho</button>
+        <button type="button" class="btn btn-primary">Adicionar ao carrinho</button>
       </div>
     </div>
   </div>
@@ -106,11 +106,11 @@ Comprar
       <div class="modal-body">
       <img class="img-fluid" src="imagens/retrovisor.jpg">
                 <p>R$80,00</p>
-                <p> Agenda personaliada</p>
+                <p> Agenda personalizada</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary">Adicionar ao carinho</button>
+        <button type="button" class="btn btn-primary">Adicionar ao carrinho</button>
       </div>
     </div>
   </div>
@@ -156,7 +156,7 @@ Comprar
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary">Adicionar ao carinho</button>
+        <button type="button" class="btn btn-primary">Adicionar ao carrinho</button>
       </div>
     </div>
   </div>

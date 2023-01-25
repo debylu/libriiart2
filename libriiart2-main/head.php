@@ -13,7 +13,7 @@
     <title>Papelaria Libriiart</title>
   </head>
   <header>
-    <h6 class="welcome"> Seja bem-vindo(a) à Loja Virtual da Libriiart!</h6>
+    <h6 class="welcome"> Seja bem-vindo(a) à Loja Virtual Libriiart!</h6>
   
 </header>
   <body>
